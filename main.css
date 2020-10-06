@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: auto;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow-y: hidden;
+    background-image: url(https://media.giphy.com/media/6wpHEQNjkd74Q/giphy.gif);
+    background-size: cover;
+}
